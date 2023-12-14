@@ -3,9 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title> Main page on GitHub/GitLab </title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
-    <style> img { width: 3%; height: 3%; } </style>
 </head>
 <body>
 <h1>Welcome on My GitHub homepage &#x1F60A;.</h1>
