@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title> Main page on GitHub/GitLab </title>
-</head>
 <body>
 <h1>Welcome on My GitHub homepage &#x1F60A;.</h1>
 <h2>I'm programming with software:</h2>
